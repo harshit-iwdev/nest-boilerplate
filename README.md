@@ -23,7 +23,19 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+A standardized, production-ready NestJS boilerplate and template for future development. 
+
+## Project Usage & Features
+
+This boilerplate is designed to provide a robust foundation for building enterprise-grade backend services. It can be used to quickly bootstrap new microservices or monolithic APIs with essential configurations already in place.
+
+Key features and what it can be used for:
+- **Database Layer:** Pre-integrated with a query builder/ORM for structured data management.
+- **Security:** Includes a secure JWT-based authentication pipeline for securing endpoints.
+- **Validation:** Implements a standardized request validation pipeline.
+- **Error Handling:** Features centralized exception filters to guarantee consistent, unified API error responses.
+- **API Structure:** Contains example implementations of both public and authenticated endpoints following global coding best practices.
+- **Rapid Prototyping & Production:** Ideal for both quickly spinning up proof-of-concepts and scaling into production environments.
 
 ## Project setup
 
